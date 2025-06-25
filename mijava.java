@@ -11,6 +11,7 @@ public class mijava {
         System.out.println("hola"+ nombre + "!");
         System.out.println("la suma de a+b " + suma);
         System.out.println("el esultado de la multiplicacion es "+ mult);
+        System.out.println("nombre: jose alexander carranza jimenez, n carnet; 2025-1526U");
        
     }
 }
