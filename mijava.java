@@ -1,8 +1,8 @@
 public class mijava {
     public static void main(String[] args) {
         
-        int a = 5;
-        int b = 5;
+        int a = 7;
+        int b = 3;
         int suma = a+b;
         String nombre = "estudiante";
        
