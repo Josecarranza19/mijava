@@ -5,10 +5,12 @@ public class mijava {
         int b = 3;
         int suma = a+b;
         String nombre = "estudiante";
+        int mult = a*b;
        
 
         System.out.println("hola"+ nombre + "!");
         System.out.println("la suma de a+b " + suma);
+        System.out.println("el esultado de la multiplicacion es "+ mult);
        
     }
 }
